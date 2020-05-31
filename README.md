@@ -72,7 +72,9 @@
   - E-mail.
   - Senha.
 - Cadastrar / Visualizar / Atualizar / Deletar:
-  - Clientes.
+  - Clientes:
+    - Dados pessoais.
+    - Propriedades.
   - Vendedores.
 - Visualizar solicitação de cadastros (Pré-cadastros):
   - Efetivar/Recusar cadastro.
@@ -93,7 +95,7 @@
         - M1;
         - M2;
         - ...
-      - Descrição.
+      - Descrição (opcional).
 - Acompanhar todos os planejamentos de visitas de clientes e vendedores.
 - Visualizar / Gerar:
   - Histórico de visitas de cada vendedor e cliente.
@@ -137,7 +139,7 @@
     - M1;
     - M2;
     - ...
-  - Tirar fotos das plantas e descrever (opcional) cada uma.
+  - Tirar fotos das plantas por talhão e descrever (opcional) cada uma.
   - Conter localização da foto (opcional).
   - Fazer descrição de cada visita.
   - Gerar relatório da visita para o Cliente.
