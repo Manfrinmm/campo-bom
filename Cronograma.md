@@ -17,6 +17,7 @@ A aplicação será divida em partes. Cada uma irá entregar uma funcionalidade 
 
 ### Vendedor
 
+- Mobile first.
 - Offline first.
 - Visualizar carteira de clientes.
 - Agendar visita.
@@ -32,19 +33,20 @@ A aplicação será divida em partes. Cada uma irá entregar uma funcionalidade 
   - Data da visita.
   - Descrição da visita.
 
-## Interface#02 _ 21/06 - --/-- _ R\$ --:
+## Interface#02 _ 21/06 - 23/06 _ R\$ 600,00:
 
+- Possívelmente irá conter alterações da interface `MVP#01`.
 - Irá conter a interface do `MVP#02`.
 
-## MVP#02 _ --/-- --/-- _ R\$ --:
+## MVP#02 _ 24/06 - 03/07 _ R\$ 2.200,00:
 
 ### ADMIN
 
-- CRUD de Planejamento simplificado das visitas para cada cliente:
 - CRUD de Visitas Designadas simplificado:
   - Nome (S1).
   - Cultura (Soja).
   - Descrição (O que fazer na S1).
+- CRUD de Planejamento simplificado das visitas para cada cliente.
 
 ### Vendedor
 
@@ -58,11 +60,39 @@ A aplicação será divida em partes. Cada uma irá entregar uma funcionalidade 
 - Visualizar:
   - Visitas para o dia seguinte.
   - Todas as visitas futuras.
+  - Planejamento de cada cliente.
 
-## MVP#03 _ --/-- --/-- _ R\$ --:
+## Interface#03 _ 04/07 - 06/07 _ R\$ 600,00:
 
-## MVP#04 _ --/-- --/-- _ R\$ --:
+- Irá conter a interface do `MVP#03`.
 
-## MVP#05 _ --/-- --/-- _ R\$ --:
+## MVP#03 _ 08/07 - 15/07 _ R\$ 1.260,00:
 
-## MVP#06 _ --/-- --/-- _ R\$ --:
+### ADMIN
+
+- Acompanhar todos os planejamentos de visitas de clientes e vendedores.
+- Histórico/Relatório de visitas por Vendedor, Cliente, Safra, Fazenda e Talhão.
+- Relatório de fechamento de Safra.
+
+### Vendedor
+
+- Gerar relatório da visita para o Cliente.
+
+## Interface#04 _ 17/07 - 24/07 _ R\$ --:
+
+- Aprimoramento das interfaces anteriores, caso necessário. Sendo valor definido após ter identificado todas as alterações.
+- Algumas alterações podem ser realizadas sem custos adicionais.
+- Irá conter a interface do `MVP#04`.
+
+## MVP#04 _ 27/07 - 31/07 _ R\$ --:
+
+- Aplicar todas alterações na interface, caso necessário.
+
+## Interface#05 _ 03/08 - 06/08 _ R\$ 600,00:
+
+- Irá conter a interface do `MVP#05`.
+
+## MVP#05 _ 07/08 - 14/08 _ R\$ 1.600,00:
+
+- Mobile first.
+- Aplicação do cliente.
